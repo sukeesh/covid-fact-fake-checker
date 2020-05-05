@@ -12,3 +12,14 @@ I have stored all the mythbusters listed on WHO website in (this file)[https://g
 ## WhatsApp bot in action
 
 ![](WhatsApp-bot.gif)
+
+## How to run locally?
+Install requirements
+```
+> pip3 install -r requirements.txt
+```
+and then run the flask server
+
+```python
+> python3 main.py
+```
