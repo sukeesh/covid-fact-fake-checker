@@ -16,10 +16,13 @@ I have stored all the mythbusters listed on WHO website in (this file)[https://g
 ## How to run locally?
 Install requirements
 ```
-> pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 and then run the flask server
 
 ```python
-> python3 main.py
+python3 main.py
 ```
+## Contributions
+
+There is still a lot to improve in this project and I welcome all the PRs/Feedback
