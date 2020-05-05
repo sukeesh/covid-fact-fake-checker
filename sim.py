@@ -4,6 +4,7 @@ from string import punctuation
 from collections import Counter
 from nltk.corpus import stopwords
 
+nltk.download('punkt')
 nltk.download("stopwords")
 stopword = stopwords.words("english")
 
